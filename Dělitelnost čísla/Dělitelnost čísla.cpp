@@ -8,11 +8,10 @@ int main()
 	int x = 14;
 	int delitel = 5;
 	printf("Cislo %d ", x);
-	// rozhodneme, jestli je cislo sude/liche
+	// je cislo delitelne?
 	if (x % delitel == 0) {
 		printf("je");
-	}
-	else {
+	} else {
 		printf("neni");
 	}
 	printf(" delitelne cislem %d.\n", delitel);
