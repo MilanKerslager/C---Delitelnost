@@ -1,5 +1,5 @@
 ﻿// Dělitelnost čísla
-// Programzjistí, zda je číslo x dělítelné číslem a
+// Program zjistí, zda je číslo x dělítelné číslem a
 
 #include <stdio.h>
 
